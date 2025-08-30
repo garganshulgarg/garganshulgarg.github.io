@@ -1,97 +1,11 @@
-# Anshul Garg
+title: "Anshul Garg - Portfolio"
+description: "Principal Engineer | Cloud, DevOps & Platform Engineering | AWS Certified"
+theme: minima
 
-📍 Mathura, Uttar Pradesh | 📧 anshulgarg.cse@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/anshul-garg-4a62458a/) | [GitHub](https://github.com/garganshulgarg)
-
----
-
-## Summary
-Principal Engineer with 14+ years of experience in **Cloud, DevOps, and Platform Engineering** across automotive, telecom, travel, and eCommerce.  
-- Skilled in **AWS, Kubernetes, Terraform, GitHub Actions, Backstage, and SAP Commerce**  
-- Strong record of building **self-service platforms, automation frameworks, and cost-optimized cloud solutions**  
-- Known for adaptability, problem-solving, and consistently delivering **customer delight**  
-
-
----
-
-## Skills
-**Cloud & DevOps**: AWS, CloudOps, DevOps, SRE, Kubernetes, Terraform (IaC), AWS CDK, GitHub Actions, GitHub Apps  
-**Programming**: Java, Python, Golang, Typescript, Shell Script  
-**Platforms & Tools**: Backstage, LangChain, SAP Commerce (Hybris), Spring  
-
----
-
-## Experience
-
-### Platform Engineer — Woven by Toyota (Remote) | 08/2023 – Present
-- Built a **Software Production Line platform** with self-service project blueprints, ensuring security and deployment from day one.  
-- Developed an internal **GitHub Action Marketplace**, enabling org-wide reuse.  
-- Integrated **JFrog Artifactory** with temporary token provisioning via Vault and Kubernetes.  
-- Designed backup solution for all repos to AWS S3.  
-- Created Terraform module system consumed in GitHub Workflows.  
-- Built a **PR Summarizer GitHub Action** using Azure OpenAI for multilingual PR insights.  
-- Delivered Diagnostics Tools for platform connectivity validation.  
-- Leading a **cloud migration** project saving ~$2M annually.  
-
-**Tech:** AWS, Python, Terraform, GitHub Workflows, Backstage, Actions, LangChain  
-
----
-
-### Principal Engineer — Nagarro | 03/2021 – 08/2023
-- Led CloudOps/DevOps and SRE activities for SAP Commerce modernization to MACH microservices.  
-- Built **Backstage platform templates** automating repos, CI/CD, observability, and policy integration.  
-- Developed **Monitoring as Code** using Terraform, Lambda, GitHub Actions, Python.  
-- Migrated 2 SAP Commerce applications to v2005.  
-- Hands-on in discovery, design, documentation, leadership, and coding.  
-
----
-
-### Senior Hybris Consultant — Luminescent Digital | 07/2018 – 02/2021
-- Architected & led eCommerce solutions for UK & IE retail.  
-- Managed technical challenges and client communications.  
-
----
-
-### Senior Technical Lead — Born Group | 06/2015 – 07/2018
-- Developed **multi-country retail eCommerce** from scratch with complex checkout and personalization flows.  
-
----
-
-### Associate Technology L2 — Sapient Nitro | 04/2014 – 05/2015
-- Hybris developer & onsite coordinator for travel solutions with cockpit customizations.  
-
----
-
-### Senior System Engineer — Infosys | 08/2011 – 04/2014
-- Delivered telco eCommerce solution for a Singapore & Malaysian giant using Hybris telco accelerator.  
-
----
-
-## Certificates
-- AWS Certified Solution Architect – Professional  
-- AWS Certified DevOps Engineer – Professional  
-- AWS Certified Cloud Practitioner  
-- Mirakl Certified Integrator  
-- SAP Commerce Cloud Developer 2023  
-
----
-
-## Awards
-- 2× BRAVO Awards, Best Team Award, CRR 1 Employee  
-- 3× Fortnight Awards  
-- “You Make a Difference” Award  
-- 2nd place, Hybris Hackathon  
-
----
-
-## Education
-**B.Tech, Computer Science & Engineering**  
-Galgotias College of Engineering & Technology, Noida (2011)  
-Graduated with Honours (77.28%)  
-
----
-
-## Languages
-- Hindi  
-- English  
+# Optional extras for Minima theme
+show_excerpts: true        # shows a short intro for posts if you add any later
+minima:
+  skin: classic            # clean look (other options: dark, auto, solarized, etc.)
+  social_links:
+    github: garganshulgarg
+    linkedin: anshul-garg-cse
