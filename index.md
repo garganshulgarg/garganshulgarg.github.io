@@ -1,5 +1,3 @@
-# Anshul Garg
-
 📍 Mathura, Uttar Pradesh | 📧 anshulgarg.cse@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/anshul-garg-cse/) | [GitHub](https://github.com/garganshulgarg)
