@@ -1,5 +1,3 @@
-# Anshul Garg
-
 📍 Mathura, Uttar Pradesh &nbsp;|&nbsp; 📞 +91 7042111332 &nbsp;|&nbsp; 📧 [anshulgarg.cse@gmail.com](mailto:anshulgarg.cse@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/anshul-garg-cse/) · [GitHub](https://github.com/garganshulgarg)
