@@ -30,6 +30,17 @@
 | **Languages** | Python · Go (Golang) · Java · TypeScript · Shell Script |
 | **Frameworks & Tools** | SAP Commerce (Hybris) · Spring · Backstage · JFrog Artifactory · Azure OpenAI |
 
+
+---
+
+## 📜 Certifications
+
+- ☁️ AWS Certified Solutions Architect – Professional
+- ☁️ AWS Certified DevOps Engineer – Professional
+- ☁️ AWS Certified Cloud Practitioner
+- 🏪 Mirakl Certified Integrator
+- 🎯 SAP Commerce Cloud Developer 2023
+
 ---
 
 ## 💼 Experience
@@ -122,16 +133,6 @@
 | **Fortnight Award** | 3× (Nagarro) |
 | **"You Make a Difference" Award** | Nagarro |
 | **Hybris Hackathon** | 2nd place |
-
----
-
-## 📜 Certifications
-
-- ☁️ AWS Certified Solutions Architect – Professional
-- ☁️ AWS Certified DevOps Engineer – Professional
-- ☁️ AWS Certified Cloud Practitioner
-- 🏪 Mirakl Certified Integrator
-- 🎯 SAP Commerce Cloud Developer 2023
 
 ---
 
